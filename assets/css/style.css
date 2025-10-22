@@ -34,8 +34,8 @@
 
 .gns-input:focus {
   outline: none;
-  border-color: #4285f4;
-  box-shadow: 0 0 0 3px rgba(66, 133, 244, 0.1);
+  border-color: #186BF2;
+  box-shadow: 0 0 0 3px rgba(24, 107, 242, 0.1);
 }
 
 .gns-input[aria-invalid="true"] {
@@ -45,7 +45,7 @@
 .gns-button {
   padding: 12px 24px;
   font-size: 16px;
-  background: #4285f4;
+  background: #186BF2;
   color: white;
   border: none;
   border-radius: 4px;
@@ -54,11 +54,11 @@
 }
 
 .gns-button:hover {
-  background: #357ae8;
+  background: #1357c9;
 }
 
 .gns-button:focus {
-  outline: 2px solid #4285f4;
+  outline: 2px solid #186BF2;
   outline-offset: 2px;
 }
 
@@ -72,7 +72,7 @@
   padding: 15px;
   margin-bottom: 15px;
   background: #f9f9f9;
-  border-left: 4px solid #4285f4;
+  border-left: 4px solid #186BF2;
   border-radius: 4px;
 }
 
@@ -82,7 +82,7 @@
 }
 
 .gns-result a {
-  color: #4285f4;
+  color: #186BF2;
   text-decoration: none;
   font-weight: 600;
 }
@@ -92,7 +92,7 @@
 }
 
 .gns-result a:focus {
-  outline: 2px solid #4285f4;
+  outline: 2px solid #186BF2;
   outline-offset: 2px;
   border-radius: 2px;
 }
